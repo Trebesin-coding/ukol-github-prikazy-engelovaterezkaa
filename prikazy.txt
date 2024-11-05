@@ -1,0 +1,4 @@
+git clone https://github.com/Trebesin-coding/ukol-github-prikazy-engelovaterezkaa.git
+git add .
+git commit -am "nahrání webovky"
+git push origin main
